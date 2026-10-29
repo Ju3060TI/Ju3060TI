@@ -44,6 +44,6 @@ Chat platform with groups, friend system and a private mode. Runs entirely insid
 
 ## Links
 
-- **Portfolio** — [portfolio-ju3060ti](https://ju3060ti.github.io/portfolio-ju3060ti)
+- **Portfolio** — [Portfolio-Ju3060TI](https://ju3060ti.github.io/portfolio-ju3060ti)
 - **Downloads** — [Google Drive](https://drive.google.com/drive/folders/17yMk3H0MnS5oIw4Ntv57aWh6cFB37Wpw?usp=sharing)
 - **Email** — ju3060ti@gmail.com
