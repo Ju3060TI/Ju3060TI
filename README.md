@@ -29,7 +29,7 @@ Real-time engine for infinite voxel worlds. Terrain generated procedurally with 
 
 Isolated browser with its own interface and a built-in access shield. Built as a sandboxed environment for private web apps — everything runs inside its own shell, outside the regular web.
 
-`C#` `.NET` `WebView`
+`Javascript` `HTML` `CSS`
 
 ---
 
@@ -38,12 +38,12 @@ Isolated browser with its own interface and a built-in access shield. Built as a
 
 Chat platform with groups, friend system and a private mode. Runs entirely inside the Mörser-Karl GX browser environment.
 
-`TypeScript` `Node.js` `WebSockets`
+`Javascript` `HTML` `CSS`
 
 ---
 
 ## Links
 
-- **Portfolio** — [portfolio-ju3060ti.onrender.com](https://portfolio-ju3060ti.onrender.com)
+- **Portfolio** — [portfolio-ju3060ti](https://ju3060ti.github.io/portfolio-ju3060ti)
 - **Downloads** — [Google Drive](https://drive.google.com/drive/folders/17yMk3H0MnS5oIw4Ntv57aWh6cFB37Wpw?usp=sharing)
 - **Email** — ju3060ti@gmail.com
