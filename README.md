@@ -20,7 +20,7 @@ Multi-agent system with 22B parameters running fully local on a single GPU. Focu
 
 Real-time engine for infinite voxel worlds. Terrain generated procedurally with no loading times and constant memory usage.
 
-`C++` `GLSL` `OpenGL`
+`C#` `Slang, GLSL` `Vulkan`
 
 ---
 
